@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	width:90%;
+	/*background-color:#9C3;*/
+}
+.face{
+	width:30px;
+	height:30px;
+}
+hgroup{
+	color:#03F;
+}
+/*********Header***********/
+header{
+	border-bottom:solid #333 2px;
+}
+header hgroup{
+	text-align:center;
+}
+/*********Section (main)***********/
+
+/*********Footer***********/
+footer{
+	border-top:solid #333 2px;
+}
+footer button.createProfile, footer button.login{
+	float:right;
+}
+footer button.contacts{
+	position:absolute;
+	left:0px;
+	bottom:0px;
+}
+

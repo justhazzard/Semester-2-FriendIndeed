@@ -1,0 +1,5 @@
+INDEX VERSION 1.126+C:\Users\administrator\Desktop\Semester 2 FriendIndeed\.metadata\.plugins\org.eclipse.jdt.core
+3942370469.index
+1407157447.index
+847458178.index
+788900257.index

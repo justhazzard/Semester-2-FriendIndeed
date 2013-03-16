@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Change Layout" description="Change Layout" file="/FriendInded/res/layout/activity_fullscreen.xml" flags="6" flatten="true" id="com.android.ide.eclipse.adt.refactoring.convert" proj="/FriendInded" sel-end="2363" sel-start="1004" stamp="1362830412177" type="android.widget.GridLayout"/>
+</session>
