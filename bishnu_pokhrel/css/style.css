@@ -1,0 +1,63 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	width:90%;
+	/*background-color:#25C2AB;*/
+	background-color:#1E4B6C;
+	
+}
+body, button{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+}
+.face{
+	width:30px;
+	height:30px;
+}
+hgroup{
+	color:#03F;
+}
+button{
+	font-weight:bold;
+}
+/*********Header***********/
+header{
+	border-bottom:solid #333 2px;
+	/*background-color:#3C7B3E;*/
+}
+header hgroup{
+	text-align:center;
+	color:#fff;
+	
+}
+/*********Section (main)***********/
+#main{
+	color:#fff;
+	
+}
+#main table, .tc{
+	width:90%;
+	background-color:#005353;
+	/*background-color:#63BAE4;*/
+	border-radius:25px;
+	padding:10px;
+}
+.tc button.agree{
+	float:right;
+}
+.question{
+	text-align:center;
+}
+/*********Footer***********/
+footer{
+	border-top:solid #333 2px;
+}
+footer button.createProfile, footer button.login{
+	float:right;
+}
+footer button.contacts{
+	position:absolute;
+	left:0px;
+	bottom:0px;
+}
+
